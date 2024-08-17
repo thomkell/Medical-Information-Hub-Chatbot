@@ -11,4 +11,4 @@ The dataset used to train this model is **not included** in this repository due 
 2. **Use Publicly Available Medical Datasets:**
    - Explore datasets available on platforms like [Kaggle](https://www.kaggle.com/), [Google Dataset Search](https://datasetsearch.research.google.com/), or [National Institutes of Health (NIH) Open Data](https://opendata.nih.gov/).
 
-Please ensure you have the right to use any data you obtain, and always respect the privacy and intellectual property rights of data owners.
+Please ensure you have the right to use any data you obtain.
