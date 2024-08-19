@@ -3,7 +3,7 @@ Medical Information Hub Chatbot
 
 ## Important Note on Data
 
-The dataset used to train this model is **not included** in this repository due to potential licensing and privacy concerns. If you wish to use similar data, you can:
+The dataset used to train the model is **not included** in this repository due to potential licensing and privacy concerns. If you wish to use similar data, you can:
 
 1. **Scrape Data from MedlinePlus:**
    - Visit [MedlinePlus](https://medlineplus.gov/) and use a web scraper to collect medical information. Please ensure you comply with their terms of service.
