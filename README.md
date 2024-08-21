@@ -1,6 +1,8 @@
 # Medical-Information-Hub-Chatbot
 Medical Information Hub Chatbot
 
+in progress...
+
 ## Important Note on Data
 
 The dataset used to train the model is **not included** in this repository due to potential licensing and privacy concerns. If you wish to use similar data, you can:
