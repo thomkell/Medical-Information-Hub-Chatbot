@@ -23,7 +23,7 @@ all_summaries = " ".join(df_cleaned['Summary'])
 # Generate a word cloud
 wordcloud = WordCloud(width=800, height=400, background_color='white').generate(all_summaries)
 
-# Display the word cloud
+# Display the wordcloud
 plt.figure(figsize=(10, 6))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
